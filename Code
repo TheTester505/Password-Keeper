@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+  int i = 1;
+  string Password;
+  cout << "Please enter an password value: ";
+  cin >> i;
+  cout << "The value you entered is " << i;
+  cout << " and its value is " << Password << ".\n";
+  return 0;
+}
